@@ -8,8 +8,8 @@ Keras implementation of Real/Fake News Classification system with pretrained Wor
 ## REAL News Word Cloud
 ![](https://raw.githubusercontent.com/AI-kartheek/AI-Fake-News-Detection-System/main/Images/Real%20News%20Word%20Cloud.jpg)
 
-## Classification Matrix for Train Data
+## Confusion Matrix for Train Data
 ![](https://raw.githubusercontent.com/AI-kartheek/AI-Fake-News-Detection-System/main/Images/CM_Train.jpg)
 
-## Classification Matrix for Test Data
+## Confusion Matrix for Test Data
 ![](https://raw.githubusercontent.com/AI-kartheek/AI-Fake-News-Detection-System/main/Images/CM_Test.jpg)
